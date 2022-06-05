@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "symbols")(type "Legacy")(uri "${KIPRJMOD}/symbols/symbols.lib")(options "")(descr ""))
+  (lib (name "sensors")(type "Legacy")(uri "${KIPRJMOD}/symbols/sensors.lib")(options "")(descr ""))
+  (lib (name "airdata-rescue")(type "Legacy")(uri "${KIPRJMOD}/airdata-rescue.lib")(options "")(descr ""))
+)
